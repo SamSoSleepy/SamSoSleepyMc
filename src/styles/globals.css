@@ -1,4 +1,4 @@
-@custom-variant dark (&:is(.dark *));
+npm run build@custom-variant dark (&:is(.dark *));
 
 :root {
   --font-size: 16px;
@@ -189,7 +189,6 @@ html {
 }
 
 /* Deltarune theme styling */
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 .pixel-font {
   font-family: 'Press Start 2P', monospace;

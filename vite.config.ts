@@ -4,7 +4,8 @@
   import path from 'path';
 
   export default defineConfig({
-    base: '/SamSoSleepyWeb1.8.1/',
+    // Use BASE_PATH env var when set (for production deploy to a subpath), otherwise default to '/'
+    base: process.env.BASE_PATH || '/',
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],

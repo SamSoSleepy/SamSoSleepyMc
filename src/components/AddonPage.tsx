@@ -387,13 +387,6 @@ export function AddonPage() {
       link: 'https://www.mediafire.com/file/qdp2r0t1a430vnd/Horror_Circus_Add-On_%2528addon%2529.mcaddon/file'
     },
     {
-      title: "Raiyons Item Physics",
-      image: 'https://media.forgecdn.net/attachments/1297/528/mcpedl-png.png',
-      name: 'Enhanced Gaming Experience',
-      description: "This addon adds more immersive physics to your Minecraft world, making items on the ground appear realistic and allowing you to pick them up at will.",
-      link: 'https://www.mediafire.com/file/6fpjo0jm6o89tya/Raiyons-Item-Physics-Addon-MCPE-Behavior-1.21.mcpack/file'
-    },
-    {
       title: "Immersive Interfaces Gui",
       image: 'https://www.9minecraft.net/wp-content/uploads/2024/09/Shrimps-Immersive-Interfaces-Resource-Pack.png',
       name: 'Enhanced Gaming Experience',
@@ -408,7 +401,7 @@ export function AddonPage() {
       link: 'https://www.mediafire.com/file/wwgepf23rxq2nr0/Bushy_trees.mcpack/file'
     },
     {
-      title: "fanimationu7.1",
+      title: "Fanimationu7.1",
       image: 'https://i.ytimg.com/vi/Q1_gZ1d2sqY/mqdefault.jpg',
       name: 'Enhanced Gaming Experience',
       description: "FAnimation is an animation pack inspired by Minecraft Dungeon, there are tons of new animations that make your gaming experience even more fun!",
@@ -569,13 +562,6 @@ export function AddonPage() {
       link: 'https://www.mediafire.com/file/y3j1lnk4b79q6ub/Item_Physics.mcaddon/file'
     },
     {
-      title: "addon กระจอก mgnificent minimap",
-      image: 'https://i.ytimg.com/vi/5WB8oEZSuvM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBANkWInPcSJi8ETxm30AvsgLL-Vw',
-      name: 'Enhanced Gaming Experience',
-      description: "Magnificent Minimap is a powerful addon that offers a real-time, responsive, and highly customizable mini-map experience. Players can freely adjust their size, style, and the information displayed, ensuring the minimap remains practical without disrupting core gameplay. Combining performance, adaptability, and aesthetics, Magnificent Minimap makes exploring and navigating the game world more fluid, efficient, and enjoyable.",
-      link: 'https://www.mediafire.com/file/1nou58ic0d04j0z/Magnificent+Minimap+Resource+v1.2.mcpack/file'
-    },
-    {
       title: "Mine Buddy",
       image: 'https://i.ytimg.com/vi/o3slh8V7vzE/maxresdefault.jpg',
       name: 'Enhanced Gaming Experience',
@@ -623,6 +609,83 @@ export function AddonPage() {
       name: 'Enhanced Gaming Experience',
       description: "Dig into the ultimate survival toolkit with Sieves & Things! Whether you're in a Skyblock world or deep underground, get ready to change how you gather, grow, and automate your world.",
       link: 'https://gofile.io/d/T0XEz0'
+    },
+    {
+      title: "Weapons",
+      image: 'https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/05b2c4b8-ba21-4719-894e-181388032a44/W_Thumbnail_0.jpg',
+      name: 'Enhanced Gaming Experience',
+      description: "Weapons Add-On revolutionizes YOUR survival worlds with over 13 new weapon types + 16 new materials! Don't forget tools, armor, items, ores, and so much more!",
+      link: 'https://www.mediafire.com/file/jdpej74wigg17g7/Weapons_Add-On_%2528Tiktok_%2540caotuananh_roblox%2529.mcaddon.zip/file'
+    },
+    {
+      title: "Radiums Armament v3.1",
+      image: 'https://i.ytimg.com/vi/sUz5fby3lis/sddefault.jpg',
+      name: 'Enhanced Gaming Experience',
+      description: "BETTER ZOMBIES & MORE - Radium's Armament v3.1",
+      link: 'https://www.mediafire.com/file/na3lnny3edgscdh/Radiums_Armament_v3.1_.mcaddon.zip/file'
+    },
+    {
+      title: "Pets Collection",
+      image: 'https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/59bf5dde-94d3-4a5b-b6b3-2ca7e81e4539/PetCollection_Thumbnail_0.jpg',
+      name: 'Enhanced Gaming Experience',
+      description: "Pets Collection Add-On! Tame, feed, customize and play with any pet you can imagine—show them love and build the perfect home just for them! With custom structures, adorable furniture, and fun interactive pet toys, this is the ultimate experience for pet lovers!",
+      link: 'https://www.mediafire.com/file/xmjgrwufx86vsm5/Pets_Collection_Add-On_.mcaddon.zip/file'
+    },
+    {
+      title: "Realism Cars",
+      image: 'https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2e315520-14b1-4bf4-af6f-297c2b2bbbc0/RealismCars_Thumbnail_0.jpg',
+      name: 'Enhanced Gaming Experience',
+      description: "REALISM CARS - DRIVE, RACE & DRIFT! Buckle up for the ultimate driving experience! Epic SUPER CARS built for speed, drifting, and total domination!",
+      link: 'https://www.mediafire.com/file/xr10j5nrua3pwof/Realism_Cars_Add-On_.mcaddon.zip/file'
+    },
+    {
+      title: "DRAGONS Add-On 1.4",
+      image: 'https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4ca5df21-534e-49ad-9fc7-699ab842482a/ADDD_Thumbnail_0.jpg',
+      name: 'Enhanced Gaming Experience',
+      description: "Add EPIC DRAGONS to your world! Each type evolves into different stages unlocking new powers for each new stage!",
+      link: 'https://www.mediafire.com/file/62t8bht0cbtiopd/DRAGONS_1.4_%2540YashoFree.mcaddon.zip/file'
+    },
+    {
+      title: "DYNAMIC LIGHT",
+      image: 'https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/30526134-8db5-45e1-b62b-d0c0d1805690/DynamicLight_Thumbnail_0.jpg',
+      name: 'Enhanced Gaming Experience',
+      description: "DYNAMIC LIGHTS! Holding bright new colorful items now light up your surroundings! Fits ANY world!",
+      link: 'https://www.mediafire.com/file/e5qh7zdm4abd808/Dynamic_Light_Add-on_1.2_.mcaddon.zip/file'
+    },
+    {
+      title: "No fog",
+      image: 'https://i.ytimg.com/vi/caWYkx2lGZ0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD_CMwwU61rPYcjwQsoT1sCVdd7VA',
+      name: 'Enhanced Gaming Experience',
+      description: "Introducing You to No Fog, it is the best texture pack for removing fog and increasing render distance without creating much lag. Note that this texture pack varies on your render distance. By default render distance is fixed in areas like water, lava etcetera, it doesn't matter that your render distance is 5 or 96",
+      link: 'https://www.mediafire.com/file/iyyb8tn5yq420uk/NoFog.mcpack/file'
+    },
+    {
+      title: "Magic Spells",
+      image: 'https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/584d0549-a447-4fb4-b961-b4487396a48f/MagicSpells_thumbnail_0.jpg',
+      name: 'Enhanced Gaming Experience',
+      description: "Level up your Minecraft world with Magic Spells! From launching fireballs to summoning loyal minions and even controlling time. Whether battling mobs or simply exploring, take on any adventure with these new magical powers.",
+      link: 'https://www.mediafire.com/file/nnj8vo8kki5uboo/Magic_Spells__1.1_.mcaddon.zip/file'
+    },
+    {
+      title: "More Custom Blocks 2",
+      image: 'https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/aaa35ccc-1802-46bc-ab7f-ef3957fd4c74/MoreCustomBlocks2_Thumbnail_0.jpg',
+      name: 'Enhanced Gaming Experience',
+      description: "More Custom Blocks 2 Add-On opens new possibilities to enhance your creative builds or improve your survival base with lots of custom blocks! There are some new building blocks, 2 multi-block structures (mini puzzles), and tons of decorations. All of them have crafting recipes and are fully compatible with survival mode!",
+      link: 'https://www.mediafire.com/file/ofuomrpq1au5v2e/More_Custom_Blocks_2_%2540YashoFree.mcaddon.zip/file'
+    },
+    {
+      title: "Health Bars",
+      image: 'https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9587d78e-78fe-495d-94c0-2c357a996119/healthbarspro_Thumbnail_0.jpg',
+      name: 'Enhanced Gaming Experience',
+      description: "Health Bars Pro Add-On adds immersion to every fight and takes your battles to the next level! Instantly track mob health bars and get real-time damage feedback.",
+      link: 'https://www.mediafire.com/file/p3wf90og06nojpp/Health_Bars_Add-On.mcaddon.zip/file'
+    },
+    {
+      title: "Evolving Weapons",
+      image: 'https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f23fbd9c-2d33-4652-854a-7c2ad8146b02/EvolvingWeapons_Thumbnail_0.jpg',
+      name: 'Enhanced Gaming Experience',
+      description: "Upgrade your combat experience with Evolving Weapons! This Add-On turns YOUR world into an epic battlefield, perfect for every warrior and weapon enthusiast.",
+      link: 'https://www.mediafire.com/file/q0jytullgi30jxb/Evolving_Weapons_1.1_.mcaddon.zip/file'
     }
 
 

@@ -2,7 +2,7 @@
 import React, { useState, useMemo } from 'react';
 import { Card } from './Card';
 import { Search, X } from 'lucide-react';
-import packIcon from '../../assets/pack_icon.png';
+import packIcon from '../assets/pack_icon.png';
 
 export function AddonPage() {
   const [searchQuery, setSearchQuery] = useState('');

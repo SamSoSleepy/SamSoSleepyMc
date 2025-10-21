@@ -30,3 +30,10 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
           publish_branch: gh-pages
+          # create an orphan branch and force push to avoid history conflicts
+          force_orphan: true
+          # set committer information
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          # custom commit message
+          commit_message: 'ci: deploy site via GitHub Actions'

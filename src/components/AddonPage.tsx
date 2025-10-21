@@ -688,7 +688,7 @@ export function AddonPage() {
       link: 'https://www.mediafire.com/file/q0jytullgi30jxb/Evolving_Weapons_1.1_.mcaddon.zip/file'
     },
     {
-      title: "Evolving Weapons",
+      title: "dddddEvolving Weapons",
       image: 'https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f23fbd9c-2d33-4652-854a-7c2ad8146b02/EvolvingWeapons_Thumbnail_0.jpg',
       name: 'Enhanced Gaming Experience',
       description: "Upgrade your combat experience with Evolving Weapons! This Add-On turns YOUR world into an epic battlefield, perfect for every warrior and weapon enthusiast.",
